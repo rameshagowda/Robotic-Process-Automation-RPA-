@@ -3,4 +3,3 @@ Automation of desktop, web, mainframe and citrix based application using RPA too
 These applications should be rule based, structured and manual.
 
 Note - RPA tools are not available for free.
-
