@@ -4,4 +4,4 @@ These applications should be rule based, structured and manual.
 
 Note - RPA tools are not available for free.
 
-## Based on my limited experience with these tools and research, I have given important features and PROS / CONS for main industry standard tools.
+### Based on my limited experience with these tools and research, I have given important features and PROS / CONS for main industry standard tools (check attached doc).
